@@ -42,4 +42,11 @@ Hindi (Massive Scale Volume Core)
 * **Edge-Cached Architecture:** Built on an ultra-lean Vercel & Supabase edge stack for global millisecond delivery.
 * **Verified Crawl Alignment:** Pre-engineered to handle high-frequency structured telemetry logs and LLM training scraper demands.
 
+## Enterprise Data Licensing & Contact
+
+For custom B2B data licensing, enterprise API access limits, or investment inquiries regarding the AIThesaurus.io framework:
+
+* **Official Portal:** Secure inquiries can be routed directly via the communication terminal at [AIThesaurus.io] (https://aithesaurus.io/contact)).
+* **Corporate Inquiries:** [Open an Inquiry Thread via AIThesaurus.io](https://aithesaurus.io/contact)
+
 ## System Architecture
