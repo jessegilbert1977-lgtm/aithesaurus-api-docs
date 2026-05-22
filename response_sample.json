@@ -1,0 +1,76 @@
+{
+  "query": "stealth",
+  "language": "en",
+  "generated_at": "2026-05-22T14:32:17Z",
+  "cache_hit": true,
+  "synonyms": [
+    {
+      "term": "secrecy",
+      "relevance": 0.97,
+      "part_of_speech": "noun",
+      "search_volume": 12100
+    },
+    {
+      "term": "covertness",
+      "relevance": 0.94,
+      "part_of_speech": "noun",
+      "search_volume": 880
+    },
+    {
+      "term": "furtiveness",
+      "relevance": 0.91,
+      "part_of_speech": "noun",
+      "search_volume": 720
+    },
+    {
+      "term": "stealthiness",
+      "relevance": 0.89,
+      "part_of_speech": "noun",
+      "search_volume": 590
+    },
+    {
+      "term": "surreptitiousness",
+      "relevance": 0.86,
+      "part_of_speech": "noun",
+      "search_volume": 320
+    },
+    {
+      "term": "clandestineness",
+      "relevance": 0.82,
+      "part_of_speech": "noun",
+      "search_volume": 210
+    }
+  ],
+  "antonyms": [
+    "openness",
+    "transparency",
+    "candor"
+  ],
+  "related_phrases": [
+    "under the radar",
+    "in the shadows",
+    "off the grid"
+  ],
+  "localized_urls": {
+    "en": "https://www.aithesaurus.io/en/synonyms/stealth",
+    "ar": "https://www.aithesaurus.io/ar/synonyms/%D8%AA%D8%AE%D9%81%D9%8A",
+    "es": "https://www.aithesaurus.io/es/synonyms/sigilo",
+    "pt": "https://www.aithesaurus.io/pt/synonyms/furtividade",
+    "ru": "https://www.aithesaurus.io/ru/synonyms/%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+    "ja": "https://www.aithesaurus.io/ja/synonyms/%E3%82%B9%E3%83%86%E3%83%AB%E3%82%B9",
+    "de": "https://www.aithesaurus.io/de/synonyms/tarnung",
+    "he": "https://www.aithesaurus.io/he/synonyms/%D7%94%D7%AA%D7%92%D7%A0%D7%91%D7%95%D7%AA",
+    "id": "https://www.aithesaurus.io/id/synonyms/siluman",
+    "hi": "https://www.aithesaurus.io/hi/synonyms/%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE",
+    "zh": "https://www.aithesaurus.io/zh/synonyms/%E9%9A%90%E8%BA%AB",
+    "fr": "https://www.aithesaurus.io/fr/synonyms/furtivite",
+    "it": "https://www.aithesaurus.io/it/synonyms/furtivita",
+    "bn": "https://www.aithesaurus.io/bn/synonyms/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%BE",
+    "sw": "https://www.aithesaurus.io/sw/synonyms/siri"
+  },
+  "meta": {
+    "total_results": 6,
+    "request_id": "req_8f3a2b9c1e4d",
+    "credits_remaining": 4982
+  }
+}
